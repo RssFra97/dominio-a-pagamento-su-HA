@@ -1,0 +1,8 @@
+{
+  "email": "popria@email.it",
+  "domains": [
+    "dominio.estensione"
+  ],
+  "certfile": "fullchain.pem",
+  "keyfile": "privkey.pem"
+}
